@@ -31,7 +31,7 @@ const Projetos = () => {
                     <div className={styles.repos} key={item.id}>
                         <li><h3>{item.name}</h3>
                         <p> {item.description} </p> 
-                        <a href={item.html_url}>Ver repositório</a>
+                        <a href={item.html_url} target="_blank">Ver repositório</a>
                         </li>
                     </div>
                     )
