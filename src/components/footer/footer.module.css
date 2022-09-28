@@ -1,0 +1,16 @@
+.footer {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #eaeaea;
+    background: #724796;  
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.link {
+    text-decoration: none;
+    color: #eaeaea;
+}

@@ -1,0 +1,91 @@
+.header {
+  width: 100%;
+  text-align: center;
+  color: #eaeaea;
+  background: #724796;
+  padding-top: 20px;
+  font-size: 1rem;
+}
+
+.header img {
+  float: center;
+  width: 20%;
+  padding: 8px;
+  padding-top: 20px;
+  margin: 0px 12px 12px 0;
+  border-radius: 60%;
+  background: #eaeaea; 
+}
+
+.header h1 {
+  padding-bottom: 20px;
+}
+
+
+.inputContainer {
+  width: 100%; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+  margin-bottom: 2rem;
+}
+
+.input{
+  background: #FFFFFF;
+  border: 0.9 solid #724796;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: 1px solid #cccccc;
+  height: 100px;
+  width: 70%;
+  padding-top: 30px;
+}
+
+.addContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.addTask{
+  background: #724796;
+  color: #111111;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px #d4c5f5;
+  border: 0;
+  padding: 14px;
+}
+
+.removeTask {
+  background: #724796;
+  margin: 2rem;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px #d4c5f5;
+  border: 0;
+  padding: 14px;
+  color: #FFFFFF;
+}
+  
+.listItems {
+  list-style: none;
+  width: 100%;
+  padding: 2rem;
+}
+  
+.listItems > li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 0.7px solid #7e7d7d;
+  width: 60%;
+}
+    
+  
+.listItems li div p {
+  font-size: 1.3em;
+  color: #111111;
+}

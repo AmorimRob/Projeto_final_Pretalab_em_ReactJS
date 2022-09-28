@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    text-align: center;
+    color: #eaeaea;
+    background: #724796;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.header img {
+    float: center;
+    width: 20%;
+    padding: 6px;
+    padding-top: 20px;
+    margin: 0px 12px 12px 0;
+    border-radius: 60%
+}
+
+.subtitulo {
+    padding: 1rem;
+    font-size: 1.5rem;
+    height: 400px;
+    color: #724796;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eaeaea;
+    margin-bottom: 6px;
+    background: #ded4ff;
+    margin: 32px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #d0c2ff;
+    line-height:1.8rem
+  }
