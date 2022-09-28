@@ -2,7 +2,7 @@
 
 Projeto final para o Ciclo Formativo Básico da PretaLab.
 
-Essa aplicação web possui 5 páginas (Home, Habilidades, Projetos, Comentários e Contato) onde foi utilizado: 
+Essa aplicação web, possui 5 páginas (Home, Habilidades, Projetos, Comentários e Contato) onde foi utilizado: 
 - Rotas;
 - Componentes;
 - Hooks
