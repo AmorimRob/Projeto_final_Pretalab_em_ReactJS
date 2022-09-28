@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 import Menu from './components/menu/Menu'
 import Home from './pages/home/Home'
-import Habilidades from './pages/habilidades/habilidades'
+import Habilidades from './pages/habilidades/Habilidades'
 import Projetos from './pages/projetos/Projetos'
 import Contato from "./pages/contato/Contato"
 import Comentarios from './pages/comentarios/Comentarios'
