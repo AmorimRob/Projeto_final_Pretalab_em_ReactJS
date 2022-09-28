@@ -20,9 +20,10 @@ https://projeto-final-pretalab-six.vercel.app/
 ### Tecnologias usadas
 | Ferramenta | Descrição |
 | --- | --- |
-| ReactJS | framework web |
-| Vite | gerador de projeto de front-end|
-| npm | gerenciador de pacotes|
+| ReactJS | Framework web |
+| Vite | Gerador de projeto de front-end|
+| npm | Gerenciador de pacotes|
+|Nano ID | Gerador de ID
 | Phosphor | Dependência com icones|
 | Vercel | Hospedagem para a aplicação|
 | Github | Hospedagem do código fonte |
