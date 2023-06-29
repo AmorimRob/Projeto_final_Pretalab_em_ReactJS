@@ -28,11 +28,3 @@ https://projeto-final-pretalab-six.vercel.app/
 | Vercel | Hospedagem para a aplicação|
 | Github | Hospedagem do código fonte |
 
-<br />
-
-### Próximos passos
-
-- Incluir Testes
-- Incluir API bad words
-- Revisar acessibilidade
-- Revisar responsividade
